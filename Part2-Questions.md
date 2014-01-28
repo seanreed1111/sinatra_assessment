@@ -1,6 +1,8 @@
 PART 2: SQL
 
-    Create a database called wizards. The rest of the assesment all will take place in the wizards db. (this was done inline below rather than in the db file just to make sure I kept track of all the commands)
+NOTE: I inserted the most of the statements inline under the relevant question just to show that I understood some of the commands. 
+
+    Create a database called wizards. The rest of the assesment all will take place in the wizards db.
 
     Create a table called wizards with the following columns (name, age).
         CREATE TABLE wizards (
